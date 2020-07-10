@@ -9,6 +9,7 @@ public class Happy {
         System.out.println("不早了");
         System.out.println("吃午饭嘛？");
 		System.out.println("吃拉面");
-		System.out.println("不吃");
+		System.out.println("不知道呀");
+
 	}
 }
