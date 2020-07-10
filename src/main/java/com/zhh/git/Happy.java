@@ -6,5 +6,6 @@ public class Happy {
 		System.out.println("hot_fix");
 		System.out.println("Hey!Hey!");
 		System.out.println("早啊！");
+        System.out.println("不早了");
 	}
 }
